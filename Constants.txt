@@ -1,0 +1,10 @@
+H = 1
+W = 1
+ni = 3
+nj = 3
+k = 1
+rho = 1
+cp = 1
+time = 1
+nt = 4
+record_interval = 1
