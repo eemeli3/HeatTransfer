@@ -1,2 +1,2 @@
 # HeatTransfer
-A simple heat transfer simulation software made with Python. Currently under development.
+A 2D heat transfer simulation software made with Python. Currently under development.
